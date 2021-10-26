@@ -1,0 +1,17 @@
+body{
+	background-color: green;
+	
+}
+
+h1 {
+	border-style: dotted;
+}
+
+h2 {border-style: dotted;
+
+}
+
+p{
+	background-color: red;
+	border-style: rounded;
+}
