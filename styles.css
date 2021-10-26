@@ -14,9 +14,9 @@ h2 {border-style: dotted;
 
 p	{
 	max-width: 20px;
-	background-color: blue;
+	background-color: gray;
 	border-style: solid;
 	border-radius: 10px;
 	border: 20px solid;
-	padding: 5px;
+	padding: 15px;
 }
