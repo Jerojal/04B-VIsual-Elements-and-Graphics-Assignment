@@ -1,16 +1,22 @@
 body{
 	background-color: green;
-	
+	background-image: url("savanni.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	 background-size: cover;
+
 }
 
-h1 {
+h1 {font-size: 40px;
 	border-style: dotted;
 	border-width: 2px;
+	color: white;
 }
 
-h2 {font-size: 25px;
+h2 {font-size: 30px;
 	border-style: dotted;
 	border-width: 2px;
+	color: white;
 }
 
 p	{
@@ -21,4 +27,11 @@ p	{
 	border-radius: 20px;
 	border: 5px solid;
 	padding: 2px;
+	color: white;
+}
+figure {
+		color: white;
+}
+label {
+		color: white;
 }
