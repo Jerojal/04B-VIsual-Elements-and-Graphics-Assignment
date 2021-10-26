@@ -12,9 +12,7 @@ h2 {border-style: dotted;
 }
 
 p	{
-	width: 5px;
-	border-width: 25px
-	position: relative;
+	max-width: 200px;
 	background-color: red;
 	border-style: solid;
 	border-radius: 10px;
