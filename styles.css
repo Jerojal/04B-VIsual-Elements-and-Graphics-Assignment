@@ -12,6 +12,7 @@ h2 {border-style: dotted;
 }
 
 p	{
+	width: 5px;
 	border-width: 25px
 	position: relative;
 	background-color: red;
