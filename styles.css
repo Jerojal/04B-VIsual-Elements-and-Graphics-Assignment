@@ -5,10 +5,11 @@ body{
 
 h1 {
 	border-style: dotted;
+	border-width: 30px;
 }
 
 h2 {border-style: dotted;
-
+	border-width: 30px;
 }
 
 p	{
@@ -17,5 +18,5 @@ p	{
 	border-style: solid;
 	border-radius: 10px;
 	{border: 2px solid;
-		padding: 2px;
+		padding: 0px 2px;
 }
