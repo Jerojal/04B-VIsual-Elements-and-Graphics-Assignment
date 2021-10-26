@@ -13,10 +13,10 @@ h2 {border-style: dotted;
 }
 
 p	{
-	max-width: 30px;
+	max-width: 40px;
 	background-color: blue;
 	border-style: solid;
-	border-radius: 10px;
-	border: 30px solid;
-		padding: 20px 30px;
+	border-radius: 20px;
+	border: 40px solid;
+	padding: 30px;
 }
