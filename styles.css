@@ -13,5 +13,6 @@ h2 {border-style: dotted;
 
 p	{
 	background-color: red;
-	border-style: rounded;
+	border-style: solid;
+	border-radius: 10px;
 }
